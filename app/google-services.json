@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "27258332767",
+    "firebase_url": "https://ecodeem-c918e.firebaseio.com",
+    "project_id": "ecodeem-c918e",
+    "storage_bucket": "ecodeem-c918e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27258332767:android:3b0d4de17423cfa8",
+        "android_client_info": {
+          "package_name": "com.ecodeem.ecodeem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27258332767-pt41mtaacb0rkukkeufh8aqlu3jrtaic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecodeem.ecodeem",
+            "certificate_hash": "61d9af4578725faa1b5ea57d923982346cbafdfc"
+          }
+        },
+        {
+          "client_id": "27258332767-onoutiri7hmonehbh38lmplqclfcoibt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "27258332767-onoutiri7hmonehbh38lmplqclfcoibt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMyGWSL3yS7A8KjSaycsmJlXG8ufei6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27258332767-onoutiri7hmonehbh38lmplqclfcoibt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

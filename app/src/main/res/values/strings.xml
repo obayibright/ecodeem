@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Ecodeem</string>
+    <string name="profile_name">Obayi Bright Ifeanyi</string>
+    <string name="profile_username">obayi.bright</string>
+    <string name="fragment_messages">Messages</string>
+    <string name="fragment_home">Home</string>
+
+    <string name="create_a_new_account">Create A New Account</string>
+    <string name="no_account">I don\'t Have An Account</string>
+    <string name="already_have_an_account">Already Have An Account?</string>
+    <string name="log_into_your_account">Log into Your Account</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="view_post_fragment">View Post</string>\
+    <string name="post_fragment">Post Fragment</string>
+    <string name="profile_fragment">Profile</string>
+
+    <!-- dialog names -->
+    <string name="confirm_password_dialog">ConfirmPaswordDialog</string>
+
+    <!--Profile Tab Strings -->
+    <string name="profile_posts">Posts</string>
+    <string name="eco_direct">Eco Plus</string>
+    <string name="profile_awards">History</string>
+
+    <!-- Firebase messages -->
+    <string name="auth_failed">Failed to Authenticate</string>
+    <string name="auth_success">Authentication Success</string>
+
+    <!-- Firebase database fields -->
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_account_settings">user_account_settings</string>
+    <string name="dbname_photos">photos</string>
+    <string name="dbname_user_photos">user_photos</string>
+    <string name="field_username">username</string>
+    <string name="field_email">email</string>
+    <string name="field_display_name">display_name</string>
+    <string name="field_location">location</string>
+    <string name="field_description">description</string>
+    <string name="field_phone_number">phone_number</string>
+
+    <!-- photo types -->
+    <string name="new_photo">new_photo</string>
+    <string name="profile_photo">profile_photo</string>
+
+
+    <!-- Intent Extras -->
+    <string name="calling_activity">calling_activity</string>
+    <string name="selected_image">selected_image</string>
+    <string name="selected_bitmap">selected_bitmap</string>
+    <string name="return_to_fragment">return_to_fragment</string>
+
+    <!-- Bundle arg names -->
+    <string name="activity_number">activity_number</string>
+
+
+    <!-- activity names -->
+    <string name="profile_activity">Profile Activity</string>
+
+    <!-- strings -->
+    <string name="gallery">GALLERY</string>
+    <string name="photo">PHOTO</string>
+    <string name="video">VIDEO</string>
+
+    <string name="string_next">Next</string>
+    <string name="string_share">Share</string>
+
+
+</resources>
